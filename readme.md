@@ -30,7 +30,7 @@ The pipeline performs the following steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/weather-etl-pipeline.git
+   git clone https://github.com/euricosantos-936/ETL-Pipeline-OpenMeteoApi.git
    cd weather-etl-pipeline
     ```
 2. **Create a Virtual Environment**
